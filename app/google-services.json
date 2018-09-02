@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "238547326174",
+    "firebase_url": "https://vstaxi-25aa8.firebaseio.com",
+    "project_id": "vstaxi-25aa8",
+    "storage_bucket": "vstaxi-25aa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238547326174:android:740442882ae87692",
+        "android_client_info": {
+          "package_name": "com.thephoenixit.vstaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238547326174-lrade2ac8h06kb8sejs09rq67kulvln2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thephoenixit.vstaxi",
+            "certificate_hash": "a436cec24b527a44a7ef26589b186d2686d7dbc5"
+          }
+        },
+        {
+          "client_id": "238547326174-p3s5ov0sl27i7fp4cfmk2er0k6db2mli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8QZZCNML59MqlEWO0zprwKf7VhysIhOc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238547326174-p3s5ov0sl27i7fp4cfmk2er0k6db2mli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
