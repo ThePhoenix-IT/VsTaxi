@@ -13,4 +13,10 @@ public class Client {
     private String login;
     private ClientState clientState;
 
+
+    // Behaviors
+    public void changeFirstName(String newFirstName) {
+        this.firstName = newFirstName;
+    }
+
 }
